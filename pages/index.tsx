@@ -72,6 +72,7 @@ const Home: NextPage = () => {
     <Image src={card4} alt='series fourth' className="w-full h-full" onClick={() => handleImageClick('Series_fourth')} />,
     <Image src={card5} alt='series fifth' className="w-full h-full" onClick={() => handleImageClick('Series_fifth')} />,
     <Image src={card6} alt='series sixth' className="w-full h-full" onClick={() => handleImageClick('Series_sixth')} />,
+    // Add other images here
   ];
 
   return (
@@ -116,7 +117,7 @@ const Home: NextPage = () => {
 
             <div className='episodes-list-container mt-4 w-full max-w-md'>
               <div className='episodes-list'>
-                {episodes.map((episode, index) => (
+                {episodes.map((episode, index) => ( 
                   <div
                     key={index}
                     className='episode-item bg-gradient-to-r from-purple-600 to-indigo-600 p-4 rounded mb-4 flex items-center justify-between cursor-pointer'
