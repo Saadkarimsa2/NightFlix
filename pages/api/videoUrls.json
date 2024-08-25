@@ -1,0 +1,4 @@
+{
+    "Series_first": "https://my-video-bucket-11.s3.us-west-2.amazonaws.com/s1-e1.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUQ4L3E4TGT4Y74SL%2F20240822%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240822T172132Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=90d5d4566a70c9edecf6064818b7070b7df882a3a8fb63f4a1482cfb8a1b1b94",
+    "Series_second": "https://my-video-bucket-11.s3.us-west-2.amazonaws.com/s1-e2.mkv?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAUQ4L3E4TGT4Y74SL%2F20240822%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20240822T172132Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=90d5d4566a70c9edecf6064818b7070b7df882a3a8fb63f4a1482cfb8a1b1b94"
+}
